@@ -1,0 +1,9 @@
+{
+    "name": "Chrome Resizer",
+    "version": "1.0",
+    "description": "Resize a Chrome window to predetermined pixel resolutions.",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_popup": "popup.html"
+    }
+}
